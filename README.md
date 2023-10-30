@@ -4,6 +4,7 @@ Collection of useful C++ headers
 # Paint Text:
 Adds the correct ANSII escape codes to a given string based on the ENUM COLOUR / HEX / RGB Provided
 ```c++
+#include <iostream>
 #include "PaintText.hpp"
 int main()
 {
