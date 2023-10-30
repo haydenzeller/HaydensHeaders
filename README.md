@@ -4,7 +4,7 @@ Collection of useful C++ headers
 # Paint.hpp:
 Adds the correct ANSII escape codes to a given string based on the ENUM COLOUR / HEX / RGB Provided
 ```c++
-#include "Paint.hpp"
+#include "PaintText.hpp"
 int main()
 {
 	// ENUM (ROY G BIV + TEAL)
