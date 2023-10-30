@@ -1,10 +1,10 @@
 # HaydensHeaders
 Collection of useful C++ headers
 
-# Paint Text:
+# Paint.hpp:
 Adds the correct ANSII escape codes to a given string based on the ENUM COLOUR / HEX / RGB Provided
 ```c++
-#include "PaintText.hpp"
+#include "Paint.hpp"
 int main()
 {
 	// ENUM (ROY G BIV + TEAL)
