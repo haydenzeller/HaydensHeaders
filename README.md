@@ -3,8 +3,7 @@ Collection of useful C++ headers
 
 # Paint Text:
 Adds the correct ANSII escape codes to a given string based on the colour / HEX / RGB Provided
-
-'''C++
+```
 #include "PaintText.hpp"
 int main()
 {
@@ -17,4 +16,4 @@ int main()
 
 	return 0;
 }
-'''
+```
