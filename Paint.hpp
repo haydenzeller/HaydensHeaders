@@ -5,7 +5,7 @@
 * ********************************************
 *       Hayden Zeller        				 *
 *	    Paint.hpp (v1.5) 					 *
-*		2023-10-31 // Happye Halloween!		 *
+*		2023-10-31 // Happy Halloween!		 *
 * ********************************************
 *											 *
 * This file contains the paint function,	 *
