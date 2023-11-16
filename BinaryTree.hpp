@@ -6,12 +6,11 @@
 *       Hayden Zeller        				 *
 *	    BinaryTree.hpp (v1.5) 				 *
 *		2023-11-07							 *
-* ********************************************
-*											 *
-* This file contains the paint function,	 *
-* which is used to color text in the console *
-* using ANSII escape codes.					 *
-*											 *
+* *******************************************
+* This is a binary tree data structure. It  *
+* can be used to store data in a tree.      *
+* The tree can be balanced and checked if   *
+* it is balanced.                           *
 * ********************************************
 */
 /* source: https://github.com/haydenzeller/HaydensHeaders */
